@@ -1,4 +1,5 @@
  Batch Payroll Application
+ 
 Overview:
 The Batch Payroll Application is a software solution designed to automate and simplify payroll processing. It supports different employee types (hourly, salaried, commission-based) and ensures accuracy in wage calculations, deductions, and payment distribution. The system also manages employee data, taxes, benefits, overtime, and issues payslips efficiently, all while minimizing manual effort and errors.
 Use Case Description:
